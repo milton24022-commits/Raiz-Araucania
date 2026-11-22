@@ -1,4 +1,4 @@
-﻿<img src="img/milton-erices.jpg" alt="Foto de Milton Erices" width="180" />
+﻿
 
 
 
